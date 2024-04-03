@@ -9,6 +9,18 @@ Goals of this repository:
 4. Build usefull notebooks that enable anybody to quickly try out RL projects.
 
 
+## Reinforcement Learning Resources:
+This section provides valuable learning resources to dive deeper into RL:
+
+- [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
+- [Huggingface's Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [Lilian Weng's Blog](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
+- [Berkley's Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+*more updates coming...*
+
+
+
 ## 1st Project: Solving the Lunar Lander Problem with Deep Q-Networks (DQN)
 
 This project addresses the classic Lunar Lander problem using the DQN algorithm. The included GIF showcases the trained agent successfully navigating the lunar lander to the landing pad without crashing.
@@ -30,17 +42,6 @@ This project addresses the classic Lunar Lander problem using the DQN algorithm.
 
 
 
-
-
-## Reinforcement Learning Resources:
-This section provides valuable learning resources to dive deeper into RL:
-
-- [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
-- [Huggingface's Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
-- [Lilian Weng's Blog](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
-- [Berkley's Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-
-*more updates coming...*
 
 ## Getting Started:
 
